@@ -7,4 +7,4 @@
 </div>
 </body>
 
-作業 : *[link](https://ykelly891123.github.io/CPhws/)*
+作業 : *[link](https://ykelly891123.github.io/GPhws/)*
